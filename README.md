@@ -1,23 +1,17 @@
-This folder contains files for P0: Analyze Bay Area Bike Share Data.
+# Análise de dados da Bay Area Bike Share
 
-Bay\_Area\_Bike\_Share\_Analysis.ipynb - Main project file.
+A Bay Area Bike Share é uma empresa que oferece aluguel de bicicletas a clientes em São Francisco, Redwood City, Palo Alto, Mountain View e San Jose. Os usuários podem desbloquear bicicletas de diversas estações em cada cidade e devolvê-las em qualquer estação dentro da mesma cidade. O serviço é pago por meio de assinatura anual ou pela compra de passes de três dias ou 24 horas. Os usuários podem fazer um número ilimitado de viagens. Viagens com menos de trinta minutos de duração não terão custo adicional; viagens mais longas incorrerão em taxas de horas extras.
 
-babs\_datacheck.py; babs\_visualizations.py - Supplemental scripts for checking
-data wrangling, reporting of basic statistics, and creation of exploratory bar
-charts and histograms.
+Neste projeto, você se colocará no lugar de um analista para realizar uma análise exploratória dos dados. Você analisará duas das principais partes do processo de análise de dados: limpeza de dados e análise exploratória. Mas, antes de começar a análise, pense em algumas perguntas que você pode querer fazer sobre os dados. Por exemplo, se você estivesse trabalhando para a Bay Area Bike Share, que tipo de informação gostaria de ter a fim de tomar decisões de negócios mais inteligentes? Ou você pode pensar como você fosse um usuário. Que fatores podem influenciar a maneira como você gostaria de usar o serviço?
 
-Data is split among twelve other files, organized into three sets of four files
-each. Prefixing each set is one of three datestamps, showing the end month for
-each data collection period (201402, 201408, 201508). Suffixes for each file
-indicate contents:
+Ao final deste projeto, você será capaz de identificar as principais etapas do processo de análise de dados. Ele é projetado para ajudá-lo a tomar uma decisão informada sobre este tipo de trabalho.
 
-\*\_README.txt - Information about contents of data files.
+Além de praticar os conhecimentos, você também entenderá o processo de envio do projeto e o tipo de feedback que você pode esperar de seu revisor.
 
-\*\_station\_data.csv - Basic information about station locations and
-capacities.
+* \*\_README.txt - Informações sobre o conteúdo do csv.
 
-\*\_trip\_data.csv - Information about each trip taken using the bike share
-system.
+* \*\_station\_data.csv - Informações básicas sobre os locais de estação e capacidade.
 
-\*\_weather\_data.csv - Weather information by day for one station in each
-city in the bike share program.
+* \*\_trip\_data.csv - Informações sobre cada viagem usando o sistema de empréstimo de bicicletas.
+
+* \*\_weather\_data.csv - Informação meteorológica por dia para uma estação em cada cidade no programa de empréstimo de bicicletas.
