@@ -1,7 +1,7 @@
 # coding: utf-8
 import numpy as np
 import pandas as pd
-from babs_visualizations import usage_stats
+from libs.babs_visualizations import usage_stats
 
 def question_3(data):
     """
