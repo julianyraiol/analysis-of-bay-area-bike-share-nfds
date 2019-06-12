@@ -8,6 +8,48 @@ Ao final deste projeto, você será capaz de identificar as principais etapas do
 
 Além de praticar os conhecimentos, você também entenderá o processo de envio do projeto e o tipo de feedback que você pode esperar de seu revisor.
 
+
+### Project Structure
+
+This project was divided in two main folders: 
+
+* **data**: all available data
+* **notebook**: all notebooks used on this project
+
+```
+|-- README.md
+|
+|-- data
+|   |-- candidates.csv
+|-- notebooks
+|   |-- analysis.ipynb
+|   
+`-- requirements.txt
+```
+
+### Development Environment
+
+This analysis was made using Python 3.7.
+
+```bash
+$ git clone https://github.com/julianyraiol/analise-candidatos-deputados-2014.git
+$ cd analise-candidatos-deputados-2014
+```
+
+Then install the requirements using *pip*:
+
+`$ pip install -r requirements.txt`
+
+### Run
+
+In a terminal or command window, inside the project,  run one of the following commands:
+
+```bash
+$ cd analise-candidatos-deputados-2014
+$ jupyter notebook
+```
+
+
 * \*\_README.txt - Informações sobre o conteúdo do csv.
 
 * \*\_station\_data.csv - Informações básicas sobre os locais de estação e capacidade.
