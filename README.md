@@ -9,17 +9,22 @@ Ao final deste projeto, você será capaz de identificar as principais etapas do
 Além de praticar os conhecimentos, você também entenderá o processo de envio do projeto e o tipo de feedback que você pode esperar de seu revisor.
 
 
-### Project Structure
+### Estrutura do projeto
 
-This project was divided in two main folders: 
+This project was divided in three main folders: 
 
 * **data**: all available data
+* **libs**: all available libs
 * **notebook**: all notebooks used on this project
 
 ```
 |-- README.md
 |
 |-- data
+|   |-- *_trip_*.csv
+|   |-- *_station_*.csv
+|   |-- *_weather_*.csv
+|-- libs
 |   |-- candidates.csv
 |-- notebooks
 |   |-- analysis.ipynb
