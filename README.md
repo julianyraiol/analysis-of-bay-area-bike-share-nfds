@@ -25,32 +25,33 @@ This project was divided in three main folders:
 |   |-- *_station_*.csv
 |   |-- *_weather_*.csv
 |-- libs
-|   |-- candidates.csv
+|   |-- babs_datacheck.py
+|   |-- babs_visualizations.py
 |-- notebooks
-|   |-- analysis.ipynb
+|   |-- Analise_Bay_Area_Bike_Share-NDFDSI.ipynb
 |   
 `-- requirements.txt
 ```
 
-### Development Environment
+### Ambiente de Desenvolvimento
 
-This analysis was made using Python 3.7.
+Esta análise foi realizada em Python 3.7.
 
 ```bash
-$ git clone https://github.com/julianyraiol/analise-candidatos-deputados-2014.git
-$ cd analise-candidatos-deputados-2014
+$ git clone https://github.com/julianyraiol/analysis-of-bay-area-bike-share-nfds.git
+$ cd analysis-of-bay-area-bike-share-nfds
 ```
 
-Then install the requirements using *pip*:
+Para instalar os pacotes, utilize o *pip*:
 
 `$ pip install -r requirements.txt`
 
-### Run
+### Executar
 
-In a terminal or command window, inside the project,  run one of the following commands:
+Na linha de comando do terminal, execute seguinte comando:
 
 ```bash
-$ cd analise-candidatos-deputados-2014
+$ cd analysis-of-bay-area-bike-share-nfds
 $ jupyter notebook
 ```
 
