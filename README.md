@@ -54,7 +54,6 @@ $ cd analise-candidatos-deputados-2014
 $ jupyter notebook
 ```
 
-
 * \*\_README.txt - Informações sobre o conteúdo do csv.
 
 * \*\_station\_data.csv - Informações básicas sobre os locais de estação e capacidade.
