@@ -1,0 +1,7 @@
+ipython
+pandas
+matplotlib
+seaborn
+csv
+datetime
+numpy
