@@ -11,11 +11,11 @@ Além de praticar os conhecimentos, você também entenderá o processo de envio
 
 ### Estrutura do projeto
 
-This project was divided in three main folders: 
+Este projeto foi divido em 3 pastas principais:
 
-* **data**: all available data
-* **libs**: all available libs
-* **notebook**: all notebooks used on this project
+* **data**: todos os datasets do projeto
+* **libs**: todas as bibliotecas do projeto
+* **notebook**: todos os notebooks do projeto
 
 ```
 |-- README.md
