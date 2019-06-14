@@ -11,11 +11,10 @@ Além de praticar os conhecimentos, você também entenderá o processo de envio
 
 ### Estrutura do projeto
 
-Este projeto foi divido em 3 pastas principais:
+Este projeto foi divido em 2 pastas principais:
 
 * **data**: todos os datasets do projeto
 * **libs**: todas as bibliotecas do projeto
-* **notebook**: todos os notebooks do projeto
 
 ```
 |-- README.md
@@ -27,9 +26,8 @@ Este projeto foi divido em 3 pastas principais:
 |-- libs
 |   |-- babs_datacheck.py
 |   |-- babs_visualizations.py
-|-- notebooks
-|   |-- Analise_Bay_Area_Bike_Share-NDFDSI.ipynb
-|   
+|   Analise_Bay_Area_Bike_Share-NDFDSI.ipynb
+|
 `-- requirements.txt
 ```
 
